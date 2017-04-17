@@ -1,0 +1,5 @@
+public class TinkuTest {
+  public static void main(String[] arg) {
+    Sysout.out.println("Test from TinkuTest class");
+  }
+}
